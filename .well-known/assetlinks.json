@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.notepoint.twa",
+               "sha256_cert_fingerprints": ["2D:F7:27:22:57:66:95:14:7C:00:CF:E0:F9:61:BA:6D:B0:9D:E9:C6:49:03:69:DC:B8:AA:3F:92:D7:CA:E5:40"] }
+}]
