@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.notepoint.twa",
-               "sha256_cert_fingerprints": ["2D:F7:27:22:57:66:95:14:7C:00:CF:E0:F9:61:BA:6D:B0:9D:E9:C6:49:03:69:DC:B8:AA:3F:92:D7:CA:E5:40"] }
+  "target" : { "namespace": "android_app", "package_name": "ru.andrey.pwa",
+               "sha256_cert_fingerprints": ["F8:96:5A:4A:E4:1D:CD:86:FC:60:0B:AF:63:46:E8:7A:74:4A:52:AB:70:39:74:6B:FE:99:F4:3E:CE:C8:59:29"] }
 }]
