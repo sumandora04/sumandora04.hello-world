@@ -1,5 +1,9 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.agile.trustedwebapp",
-               "sha256_cert_fingerprints": ["F8:96:5A:4A:E4:1D:CD:86:FC:60:0B:AF:63:46:E8:7A:74:4A:52:AB:70:39:74:6B:FE:99:F4:3E:CE:C8:59:29"] }
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.agile.trustedwebapp",
+    "sha256_cert_fingerprints":
+    ["F8:96:5A:4A:E4:1D:CD:86:FC:60:0B:AF:63:46:E8:7A:74:4A:52:AB:70:39:74:6B:FE:99:F4:3E:CE:C8:59:29"]
+  }
 }]
